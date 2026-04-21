@@ -8,8 +8,8 @@
 
 ## 🚀 Projects
 
-- 🎮 Guessing Game  
-- 🔢 Number Sum CLI  
+- 🎮 [Guessing Game](https://github.com/Salesfilipe/guessing-game)  
+- 🔢 [Number Sum CLI](https://github.com/Salesfilipe/number-sum-cli)  
 - 📊 More projects coming soon...
 
 ---
